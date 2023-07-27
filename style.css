@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+.logo {
+  width: 30%;
+  height: 70px;
+  background-color: #1b2234;
+  padding: 7px 65px;
+  box-sizing: border-box;
+}
+.zero {
+  margin: 0;
+  padding: 0;
+}
+a.color {
+  color: #93d022;
+  text-decoration: none;
+  text-transform: capitalize;
+  font-size: 35px;
+  font-weight: 500;
+}
+a.bgcolor {
+  background-color: #93d022;
+  margin-left: 1px;
+  font-weight: bold;
+}
+.search {
+  background-color: #545a64;
+  color: #93d022;
+}
+.search:hover {
+  color: #545a64;
+  background-color: #93d022;
+}
+.upper {
+  text-transform: capitalize;
+}
+.form-control,
+.form-control:click {
+  border-color: #93d022;
+}
+div.bgcolor {
+  background-color: #93d022;
+}
+nav.second {
+  width: 100%;
+  display: block;
+}
